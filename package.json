@@ -9,12 +9,15 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@twilio/voice-sdk": "^2.3.2",
+    "events": "^3.3.0",
     "expo": "~48.0.9",
     "expo-status-bar": "~1.4.4",
     "react": "18.2.0",
+    "react-dom": "18.2.0",
     "react-native": "0.71.4",
     "react-native-web": "~0.18.10",
-    "react-dom": "18.2.0"
+    "util": "^0.12.5"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
